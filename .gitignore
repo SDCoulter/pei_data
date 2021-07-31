@@ -1,3 +1,7 @@
+# Resources folder.
+# Not mine to share, link in README.
+resources/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
