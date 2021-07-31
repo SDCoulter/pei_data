@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#viz_list {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: lightblue;
+}
+
+ul {
+  margin: 0;
+}
