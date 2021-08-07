@@ -2,6 +2,9 @@
 # Not mine to share, link in README.
 resources/
 
+# Config - API calls etc.
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
